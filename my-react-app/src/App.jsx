@@ -13,6 +13,8 @@ function App() {
 
   return (
     <>
+    <h1>React Forms</h1>
+    <br />
     <NavBar />
     <Routes>
       <Route path='/' element={<Home />} />
